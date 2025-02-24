@@ -1,9 +1,11 @@
-# shawnevans77.github.io
-it's my github pages thing.
+# who am i
 
-wow this is a real thing? wow it actually works. i wonder what coding language this site uses?
+i'm shawn evans, a computer science major at brooklyn college. 
 
-# https://shawnevans77.github.io/shawn-cs-4900/
+[my linkedin](https://www.linkedin.com/in/shawn-a-71496412a)
+[mygithub](https://github.com/ShawnEvans77/)
 
-is my project. it's a bit scuffed now but it will soon look good trust, this is my
-ramblings while i figure out how to work everything. 
+# projects
+
+[cis 1115 website](https://shawnevans77.github.io/cis-1115/)
+[cis 1115 website repo](https://github.com/ShawnEvans77/cis-1115)
